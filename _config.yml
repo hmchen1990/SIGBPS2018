@@ -19,7 +19,7 @@ title: "Welcome to BPS'18 website!"
 email: "jayshan@miamioh.edu"
 description: "SIGBPS 2018 is a workshop on Blockchain and Smart Contract"
 baseurl: ""
-url: "2018.sigbps.org"
+url: "https://huaming-chen.com/SIGBPS2018/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -68,7 +68,7 @@ eventLoc: "Marriott Marquis, Pacific Suite B, 780 Mission St, San Francisco, CA"
 #typeoutTextValues: '"", "Blockchain", "Smart Contract"'
 #typeoutFallback: "Blockchain"
 heroButtons:
- - {link: "http://2018.sigbps.org/Best_Paper/", text: "Best Paper Award"}
+ - {link: "https://huaming-chen.com/SIGBPS2018/Best_Paper/", text: "Best Paper Award"}
  
 # About Block
 aboutTitle: "About ICIS-SIGBPS"
@@ -125,7 +125,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://icis2018.aisconferences.org/", text: "ICIS 2018"}
-   - {link: "https://2018.sigbps.org/", text: "SIGBPS 2018"}
+   - {link: "https://huaming-chen.com/SIGBPS2018/", text: "SIGBPS 2018"}
  -
   title: "Contacts"
   links:
